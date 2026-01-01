@@ -11,8 +11,7 @@
         "downlevelIteration": true,
         "resolveJsonModule": true,
         "paths": {
-          "*": ["node_modules/*"],
-          "server/*": []
+          "*": ["node_modules/*"]
         }
       },
       "include": [

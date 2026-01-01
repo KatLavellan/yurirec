@@ -1284,6 +1284,59 @@
 		"landmines": ["domestic abuse"], 
 		"tags": ["romance", "slice of life", "drama"]
 	}
+	,{
+		"names":{
+			"en":"Meeting My Ex-Girlfriend",
+			"kr": "분리수거 하다가 전여친 마주치는 만화"
+		},
+		"type":"manhwa",
+		"author":"Yeongol",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"two exes become neighbours again",
+		"description":"",
+		"length": "short",
+		"status": "in progress",
+		"targets": ["lotte"],
+		"image":"./assets/5ef7257ff55c243e1ce0e0c39fa2a7c5c7868e34_315_415_33160.webp",
+		"recommendations":{
+			"uniqueness": 8.5,
+			"intensity": 9.5,
+			"comedy": 8.5,
+			"romance": 8.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "drama"]
+	}
+	
+	,{
+		"names":{
+			"en": "Pale Blue-green Color Saudade",
+			"romanized":"Asagiiro no Saudade",
+			"jp":"あさぎ色のサウダージ"
+		},
+		"type":"manga",
+		"author":"Sakutaro",
+		"pairings": {
+			"lesbian" : 10.0,
+			"trans": 7.0
+		},
+		"short":"two ex-friends who fell apart make up and rediscover their dreams",
+		"description":"",
+		"length": "short",
+		"status": "in progress",
+		"targets": ["lotte"],
+		"image":"./assets/d2e1650a-c2cf-413a-bfd8-b8f9e08a48a7.jpg",
+		"recommendations":{
+			"uniqueness": 9.5,
+			"intensity": 9.5,
+			"comedy": 5.0,
+			"romance": 7.0
+		},
+		"landmines": ["suicide"], 
+		"tags": ["romance", "slice of life", "drama"]
+	}
 	
 	
 
