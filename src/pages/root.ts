@@ -346,7 +346,7 @@ export default class Root extends Page{
 	SetFilters(){
 		{
 			const landmines = this.Element.querySelector(".list.landmines");
-			const ls = Array.from(Consolidator.landmines);;
+			const ls = Consolidator.landmines;
 			for (let i = 0; i < ls.length; i++){
 				landmines.append(this.AddFilter(ls[i], this.landmines[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -360,7 +360,7 @@ export default class Root extends Page{
 		}
 		{
 			const landmines = this.Element.querySelector(".list.targets");
-			const ls = Array.from(Consolidator.recomms);;
+			const ls = Consolidator.recomms;
 			for (let i = 0; i < ls.length; i++){
 				landmines.append(this.AddFilter(ls[i], this.targets[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -374,7 +374,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.tags");
-			const ls = Array.from(Consolidator.tags);;
+			const ls = Consolidator.tags;
 			for (let i = 0; i < ls.length; i++){
 				tags.append(this.AddFilter(ls[i], this.tags[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -388,7 +388,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.pairings");
-			const ls = Array.from(Consolidator.pairings);;
+			const ls = Consolidator.pairings;
 			for (let i = 0; i < ls.length; i++){
 				tags.append(this.AddFilter(ls[i], this.pairings[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -402,7 +402,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.length");
-			const ls = Array.from(Consolidator.length);;
+			const ls = Consolidator.length;
 			for (let i = 0; i < ls.length; i++){
 				tags.append(this.AddFilter(ls[i], this.length[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -416,7 +416,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.type");
-			const ls = Array.from(Consolidator.type);;
+			const ls = Consolidator.type;
 			for (let i = 0; i < ls.length; i++){
 				tags.append(this.AddFilter(ls[i], this.type[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -430,7 +430,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.completion");
-			const ls = Array.from(Consolidator.completion);;
+			const ls = Consolidator.completion;
 			for (let i = 0; i < ls.length; i++){
 				tags.append(this.AddFilter(ls[i], this.status[ls[i]] ?? undefined, (r, t)=>{
 					if (t == ""){
@@ -444,7 +444,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.language");
-			const ls = Array.from(Consolidator.languages);;
+			const ls = Consolidator.languages;
 			for (let i = 0; i < ls.length; i++){
 				let elem = document.createElement("div");
 				elem.innerText = ls[i];
@@ -462,7 +462,7 @@ export default class Root extends Page{
 		}
 		{
 			const tags = this.Element.querySelector(".list.rating");
-			const ls = Array.from(Consolidator.ratings);;
+			const ls = Consolidator.ratings;
 			for (let i = 0; i < ls.length; i++){
 				let elem = document.createElement("div");
 				elem.innerText = ls[i];
