@@ -78,10 +78,11 @@
 			"uniqueness": 7.0,
 			"freaky": 8.0,
 			"intensity": 8.0,
-			"story": 9.0
+			"story": 9.0,
+			"toxic": 9.0
 		},
 		"landmines": ["eating disorder"],
-		"tags":["romance", "violence","drama","psychological","slice of life"]
+		"tags":["romance", "sex", "violence","drama","psychological","slice of life"]
 	},
 	{
 		"names":{
@@ -109,7 +110,7 @@
 			"story": 7.5
 		},
 		"landmines": [],
-		"tags":["romance", "violence", "drama"]
+		"tags":["romance", "sex", "violence", "drama"]
 	},
 	{
 		"names":{
@@ -243,7 +244,8 @@
 			"uniqueness": 7.0,
 			"intensity": 6.0,
 			"romance": 7.0,
-			"story": 6.0
+			"story": 6.0,
+			"toxic": 8.0
 		},
 		"landmines": [],
 		"tags":["romance", "comedy", "slice of life"]
@@ -300,7 +302,7 @@
 			"story": 8.0
 		},
 		"landmines": [],
-		"tags":["romance", "comedy", "slice of life"]
+		"tags":["romance", "sex", "comedy", "slice of life"]
 	},
 	{
 		"names":{
@@ -353,10 +355,11 @@
 			"romance": 8.0,
 			"freaky":8,
 			"horny": 6.0,
-			"story": 9.5
+			"story": 9.5,
+			"toxic": 9.0
 		},
 		"landmines": [],
-		"tags":["romance", "sci-fi", "adventure", "psychological", "drama", "mystery"]
+		"tags":["romance", "sex", "sci-fi", "adventure", "psychological", "drama", "mystery"]
 	},
 	{
 		"names":{
@@ -432,7 +435,8 @@
 			"intensity": 9.0,
 			"romance": 7.0,
 			"art": 9.0,
-			"story": 9.0
+			"story": 9.0,
+			"toxic": 9.0
 		},
 		"landmines": [],
 		"tags":["romance", "drama", "comedy"]
@@ -458,10 +462,11 @@
 			"freaky": 7.0,
 			"horny": 7.0,
 			"romance": 7.0,
-			"story": 7.0
+			"story": 7.0,
+			"toxic": 5.0
 		},
 		"landmines": [],
-		"tags":["romance", "slice of life", "comedy", "soft bdsm"]
+		"tags":["romance", "sex", "slice of life", "comedy", "soft bdsm"]
 	},{
 		"names":{
 			"en":"6th Degree"
@@ -482,6 +487,7 @@
 			"intensity": 8.0,
 			"freaky": 8.5,
 			"romance": 7.0,
+			"toxic": 9.0,
 			"story": 9.0
 		},
 		"landmines": [],
@@ -583,7 +589,8 @@
 			"uniqueness": 9.0,
 			"intensity": 8.5,
 			"romance": 9.5,
-			"story": 8.0
+			"story": 8.0,
+			"toxic": 5.0
 		},
 		"landmines": [],
 		"tags":["romance", "slice of life", "post-apocalyptic", "supernatural","magic"]
@@ -658,7 +665,8 @@
 			"intensity": 9.0,
 			"romance": 6.0,
 			"freaky": 8.0,
-			"art": 9.0
+			"art": 9.0,
+			"toxic": 6.0
 		},
 		"landmines": [],
 		"tags":["romance", "music","comedy","school life", "slice of life"]
@@ -682,10 +690,11 @@
 			"intensity": 9.5,
 			"romance": 8.0,
 			"freaky": 8.0,
-			"art": 8.0
+			"art": 8.0,
+			"toxic": 9.0
 		},
 		"landmines": [],
-		"tags":["romance", "psychological", "action", "crime"]
+		"tags":["romance","sex",  "psychological", "action", "crime"]
 	},{
 		"names":{
 			"jp": "僕らのアイは気持ち悪い",
@@ -709,7 +718,8 @@
 			"romance": 7.0,
 			"horny": 9.0,
 			"freaky": 9.0,
-			"art": 7.0
+			"art": 7.0,
+			"toxic": 8.5
 		},
 		"landmines": [],
 		"tags":["romance", "drama", "sexual", "fetish"]
@@ -836,7 +846,8 @@
 			"uniqueness": 9.5,
 			"intensity": 8.0,
 			"romance": 8.0,
-			"art": 8.0
+			"art": 8.0,
+			"toxic": 8.0
 		},
 		"landmines": [], 
 		"tags":["romance", "school life", "psychological", "crime", "bullying"]
@@ -891,10 +902,11 @@
 			"intensity": 9.0,
 			"comedy": 9.0,
 			"romance": 8.0,
-			"art": 8.0
+			"art": 8.0,
+			"toxic": 7.0
 		},
 		"landmines": [], 
-		"tags": ["romance", "comedy", "road trip", "mystery", "drama"]
+		"tags": ["romance", "comedy", "sex", "road trip", "mystery", "drama"]
 	}
 	,{
 		"names":{
@@ -1127,10 +1139,11 @@
 			"comedy": 8.5,
 			"freaky": 8.0,
 			"horny": 8.0,
-			"romance": 8.0
+			"romance": 8.0,
+			"toxic": 6.0
 		},
 		"landmines": [], 
-		"tags": ["romance", "slow burn", "drama", "fantasy", "supernatural"]
+		"tags": ["romance", "sex", "slow burn", "drama", "fantasy", "supernatural"]
 	}
 	
 	,{
@@ -1322,11 +1335,11 @@
 			"lesbian" : 10.0,
 			"trans": 7.0
 		},
-		"short":"two ex-friends who fell apart make up and rediscover their dreams",
+		"short":"two ex-friends who had a falling out make up and rediscover their dreams",
 		"description":"",
 		"length": "short",
 		"status": "in progress",
-		"targets": ["lotte"],
+		"targets": ["lotte", "up and coming"],
 		"image":"./assets/d2e1650a-c2cf-413a-bfd8-b8f9e08a48a7.jpg",
 		"recommendations":{
 			"uniqueness": 9.5,
@@ -1338,6 +1351,113 @@
 		"tags": ["romance", "slice of life", "drama"]
 	}
 	
+	,{
+		"names":{
+			"en": "Subtraction Tautology",
+			"romanized":"Hikizan Tautology",
+			"jp":"ひきざんトートロジー"
+		},
+		"type":"manga",
+		"author":"Masatsuka Chii",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"popular cheerleader and nerdy loner become friends",
+		"description":"",
+		"length": "long",
+		"status": "in progress",
+		"targets": ["lotte"],
+		"image":"./assets/d82f3ad6-908d-4387-b35e-7155205d7cad.jpg",
+		"recommendations":{
+			"uniqueness": 9.0,
+			"intensity": 9.5,
+			"comedy": 5.0,
+			"romance": 8.0
+		},
+		"landmines": ["suicide"], 
+		"tags": ["romance", "slice of life","school life",  "drama"]
+	}
+	,{
+		"names":{
+			"en": "A girl who can't speak thinks \"she is too kind\"",
+			"romanized":"Koe ga Dasenai Shōjo wa \"Kanojo ga Yasashisugiru\" to Omotte Iru",
+			"jp":"声がだせない少女は「彼女が優しすぎる」と思っている"
+		},
+		"type":"manga",
+		"author":"Ichi Yamura",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"a mute girl x mindreader (yes)",
+		"description":"",
+		"length": "long",
+		"status": "in progress",
+		"targets": [],
+		"image":"./assets/d10878b3-3095-4c66-aaeb-4dfb3688cc4b.jpg",
+		"recommendations":{
+			"uniqueness": 9.5,
+			"intensity": 9.0,
+			"comedy": 8.0,
+			"romance": 7.5
+		},
+		"landmines": ["suicide"], 
+		"tags": ["romance", "slice of life", "school life", "supernatural"]
+	}
 	
-
+	,{
+		"names":{
+			"en": "Destroy It All And Love Me In Hell",
+			"romanized":"Zenbu Kowashite Jigoku de Aishite",
+			"jp":"声がだせない少女は「彼女が優しすぎる」と思っている"
+		},
+		"type":"manga",
+		"author":"Kuwabara Tamotsu",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"class president x close-to-dropout",
+		"description":"don't you ever just wanna... break some shit?",
+		"length": "medium",
+		"status": "in progress",
+		"targets": [],
+		"image":"./assets/da75b731-4af5-42a9-a896-9ae105e4fcf2.jpg",
+		"recommendations":{
+			"uniqueness": 9.5,
+			"intensity": 9.5,
+			"freaky": 9.0,
+			"romance": 8.5,
+			"toxic": 8.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "toxic", "sexual", "school life", "drama", "psychological"]
+	}
+	
+	,{
+		"names":{
+			"en": "Dumb Mutt Girlfriend",
+			"romanized":"Dame Inu Kanojo",
+			"jp":"ダメ犬彼女"
+		},
+		"type":"manga",
+		"author":"Kuwabara Tamotsu",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"high school debut x person who hurt her in the past",
+		"description":"dog",
+		"length": "short",
+		"status": "in progress",
+		"targets": [],
+		"image":"./assets/20ecb6d3-1ff6-4361-9767-65637769754a.jpg",
+		"recommendations":{
+			"uniqueness": 9.0,
+			"intensity": 9.0,
+			"freaky": 8.0,
+			"romance": 6.0,
+			"toxic": 8.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "dog", "toxic", "sexual", "school life", "drama"]
+	}
+	
 ]

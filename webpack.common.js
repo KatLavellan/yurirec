@@ -17,6 +17,10 @@ module.exports = {
 				use: 'ts-loader',
 				exclude: /node_modules/
 			},
+			{
+				test: /\.(txt)$/,
+				use: 'raw-loader'
+			},
 			{ 
 				test: /\.(jpe?g|gif|png|svg|woff|ttf|wav|mp3)$/,
 				type: 'asset/resource',
