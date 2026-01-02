@@ -57,35 +57,6 @@ export default class Root extends Page{
 		this.SetElements();
 		this.SetFilters();
 
-		//console.log(test, test.match(new RegExp("--","g")).length);
-		let lines = test.replaceAll("\r","").split("\n").map((a)=>a.trim());
-		for (let line of lines){
-			if (!line.startsWith("--")){
-				// forgive me for the sin i have committed
-				//console.log("checking line", line)
-				if (items.find((a)=>{
-					for (let name in a.names){
-						if (a.names[name].toLowerCase() == line.toLowerCase()){
-							return a;
-						}
-					}
-				})){
-					console.log("didn't add "+line);
-				}				
-			}
-		}
-
-		for (let item of items){
-			let found = false;
-			for (let lng in item.names){
-				if (lines.find((a)=>a.toLowerCase().replaceAll("--","") == item.names[lng].toLowerCase() )){
-					found = true;
-				}
-			}
-			if (!found){
-				console.log("missing ",item.names);
-			}
-		}
 		// how far am I adding my list
 		this.Element.querySelector<HTMLDivElement>(".progress").innerText = "progress: "+items.length + " / "+(test.match(new RegExp("\n","g")).length + 1 + Math.max(0, items.length - test.match(new RegExp("--","g")).length));
 
@@ -120,6 +91,41 @@ export default class Root extends Page{
 			}
 		});
 		this.Element.querySelector(".qna .close").addEventListener("click",close);
+
+
+
+
+		//console.log(test, test.match(new RegExp("--","g")).length);
+		let lines = test.replaceAll("\r","").split("\n").map((a)=>a.trim());
+		for (let line of lines){
+			if (!line.startsWith("--")){
+				// forgive me for the sin i have committed
+				//console.log("checking line", line)
+				if (items.find((a)=>{
+					for (let name in a.names){
+						if (a.names[name].toLowerCase() == line.toLowerCase()){
+							return a;
+						}
+					}
+				})){
+					console.log("didn't add "+line);
+				}				
+			}
+		}
+
+		for (let item of items){
+			let found = false;
+			for (let lng in item.names){
+				if (lines.find((a)=>a.toLowerCase().replaceAll("--","") == item.names[lng].toLowerCase() )){
+					found = true;
+				}
+			}
+			if (!found){
+				console.log("missing ",item.names);
+			}
+		}
+
+
 	}
 
 

@@ -295,7 +295,7 @@
 		"image":"./assets/commonandwidespread.jpg",
 		"recommendations":{
 			"comedy": 8.0,
-			"uniqueness": 6.0,
+			"uniqueness": 8.0,
 			"intensity": 9.5,
 			"romance": 9.5,
 			"horny": 7.0,
@@ -483,7 +483,7 @@
 		"targets": ["lotte"],
 		"image":"./assets/063700fb-c846-4f0d-998f-9b5eba5242f8.jpg",
 		"recommendations":{
-			"uniqueness": 7.0,
+			"uniqueness": 7.5,
 			"intensity": 8.0,
 			"freaky": 8.5,
 			"romance": 7.0,
@@ -843,7 +843,7 @@
 		"targets": [],
 		"image":"./assets/d4931e7c-2832-4d1a-aac7-f2e5ea6349c4.png",
 		"recommendations":{
-			"uniqueness": 9.5,
+			"uniqueness": 9.4,
 			"intensity": 8.0,
 			"romance": 8.0,
 			"art": 8.0,
@@ -1400,7 +1400,7 @@
 			"comedy": 8.0,
 			"romance": 7.5
 		},
-		"landmines": ["suicide"], 
+		"landmines": [], 
 		"tags": ["romance", "slice of life", "school life", "supernatural"]
 	}
 	
@@ -1450,7 +1450,7 @@
 		"targets": [],
 		"image":"./assets/20ecb6d3-1ff6-4361-9767-65637769754a.jpg",
 		"recommendations":{
-			"uniqueness": 9.0,
+			"uniqueness": 8.5,
 			"intensity": 9.0,
 			"freaky": 8.0,
 			"romance": 6.0,
@@ -1458,6 +1458,132 @@
 		},
 		"landmines": [], 
 		"tags": ["romance", "dog", "toxic", "sexual", "school life", "drama"]
+	}
+	,{
+		"names":{
+			"en": "Black and White: Tough Love at the Office",
+			"romanized":"Shiro to Kuro",
+			"jp":"白と黒～Black & White～"
+		},
+		"type":"manga",
+		"author":"Sal Jiang",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"employee x senior",
+		"description":"",
+		"length": "short",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/fe09c374-5a42-4ac0-bfe7-217285987e4a.jpg",
+		"recommendations":{
+			"uniqueness": 9.5,
+			"intensity": 9.5,
+			"romance": 8.0,
+			"toxic": 10.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "sex", "toxic", "drama", "comedy"]
+	}
+	,{
+		"names":{
+			"en": "5 Seconds Before a Witch Falls in Love",
+			"jp":"魔女が恋する５秒前"
+		},
+		"type":"manga",
+		"author":"Sumiya Zeniko",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"witch x witch hunter",
+		"description":"there's two oneshots- one is a sequel. make sure to start with the right one :)",
+		"length": "oneshot",
+		"status": "completed",
+		"targets": ["lotte", "ash"],
+		"image":"./assets/d64dfde6-37ad-437e-9b47-9f11c3a83a9f.jpg",
+		"recommendations":{
+			"uniqueness": 9.5,
+			"intensity": 9.5,
+			"romance": 8.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "comedy", "fantasy"]
+	}
+	,{
+		"names":{
+			"en": "It Would Be Great if You Didn't Exist",
+			"romanized":"Nega Eopseosseumyeon Jokesseo",
+			"kr":"네가 없었으면 좋겠어"
+		},
+		"type":"manhwa",
+		"author":"Carbonara",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"cheated on girl x girl her ex cheated on",
+		"description":"",
+		"length": "oneshot",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/34cb52b6-33f5-4896-8dcc-347487b20047.jpg",
+		"recommendations":{
+			"uniqueness": 9.0,
+			"intensity": 8.5,
+			"romance": 9.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "comedy", "drama", "slice of life"]
+	}
+	,{
+		"names":{
+			"en": "Throw Away the Suit Together",
+			"romanized":"Kimi to Shiranai Natsu ni Naru",
+			"jp":"君としらない夏になる"
+		},
+		"type":"manga",
+		"author":"Keyyang",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"two girls try to escape from life together",
+		"description":"",
+		"length": "short",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/4547d509-8110-42d0-b9e7-d34fa646d30d.jpg",
+		"recommendations":{
+			"uniqueness": 8.5,
+			"intensity": 9.8,
+			"romance": 9.0,
+			"tragedy": 8.5
+		},
+		"landmines": [], 
+		"tags": ["romance", "drama", "\"slice of life\""]
+	}
+	,{
+		"names":{
+			"en": "After the Curtain Call",
+			"romanized":"Aepteo Keoteunkol",
+			"kr":"애프터 커튼콜"
+		},
+		"type":"manhwa",
+		"author":"Assam (아쌈), JINA (지나)",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"musical actor x intense fan",
+		"description":"kinda fun? but it just kinda... ends...",
+		"length": "medium",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/2e286c35-58c1-416b-aa0a-ea5cd5849e26.jpg",
+		"recommendations":{
+			"uniqueness": 7.5,
+			"intensity": 6.0,
+			"romance": 8.0
+		},
+		"landmines": ["rushed ending"], 
+		"tags": ["romance", "drama", "slice of life"]
 	}
 	
 ]
