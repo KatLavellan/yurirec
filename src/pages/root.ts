@@ -38,9 +38,17 @@ function makeSafeForCSS(name) {
 }
 
 export default class Root extends Page{
+	onlyNew : boolean = false;
+	hideTags : boolean = false;
+	hideLandmines : boolean = false;
+	
 	constructor(){
 		super(RootHTML);
 		// load all previous settings
+		this.onlyNew = localStorage.getItem("onlyNew") == "true" ? true : false;
+		this.hideTags = localStorage.getItem("hideTags") == "true" ? true : false;
+		this.hideLandmines = localStorage.getItem("hideLandmines") == "true" ? true : false;
+
 		this.landmines = JSON.parse(localStorage.getItem("landmines")) ?? {};
 		this.targets = JSON.parse(localStorage.getItem("recomms")) ?? {};
 		this.tags = JSON.parse(localStorage.getItem("tags")) ?? {};
@@ -247,12 +255,17 @@ export default class Root extends Page{
 		cloned = this.Filter(cloned, "length");
 		cloned = this.Filter(cloned, "pairings");
 		cloned = this.Filter(cloned, "type", true);
+		if (this.onlyNew){
+			cloned = cloned.filter((a)=>a.added == Consolidator.latestDate);
+		}
 		for (let i = 0; i < cloned.length; i++){
 			const item = cloned[i];
 
 			// create an article, using article.html as the template code
 			let elem = Template.Clone(article);
+			
 			elem.classList.add("medium")
+			elem.classList.toggle("new", item.added == Consolidator.latestDate);
 			elem.querySelector("img").src = item.image;
 			elem.querySelector(".desc").innerHTML = convertText(item.description);
 			elem.querySelector("h2").innerText = item.names[this.preferredLanguage] ?? item.names.en;
@@ -347,9 +360,43 @@ export default class Root extends Page{
 		localStorage.setItem("preferredLanguage", this.preferredLanguage);
 		localStorage.setItem("rating", this.rating);
 		localStorage.setItem("ratingDir", ""+this.ratingDir);
+
+		localStorage.setItem("onlyNew", this.onlyNew ? "true" : "false");
+		localStorage.setItem("hideTags", this.hideTags ? "true" : "false");
+		localStorage.setItem("hideLandmines", this.hideLandmines ? "true" : "false");
+		this.Element.classList.toggle("hideLandmines", this.hideLandmines);
+		this.Element.classList.toggle("hideTags", this.hideTags);
 	}
 
 	SetFilters(){
+		{
+			const elem = this.Element.querySelector(".extras .new");
+			elem.querySelector(".multi-checkbox").classList.toggle("active", this.onlyNew);
+			elem.addEventListener("click",()=>{
+				elem.querySelector(".multi-checkbox").classList.toggle("active");
+				this.onlyNew = (elem.querySelector(".multi-checkbox").classList.contains("active"));
+				this.UpdateFilters();
+			});
+		}
+		{
+			const elem = this.Element.querySelector(".extras .hidelandmines");
+			elem.querySelector(".multi-checkbox").classList.toggle("active", this.hideLandmines);
+			elem.addEventListener("click",()=>{
+				elem.querySelector(".multi-checkbox").classList.toggle("active");
+				this.hideLandmines = (elem.querySelector(".multi-checkbox").classList.contains("active"));
+				this.UpdateFilters();
+			});
+		}
+		{
+			const elem = this.Element.querySelector(".extras .hidetags");
+			elem.querySelector(".multi-checkbox").classList.toggle("active", this.hideTags);
+			elem.addEventListener("click",()=>{
+				elem.querySelector(".multi-checkbox").classList.toggle("active");
+				this.hideTags = (elem.querySelector(".multi-checkbox").classList.contains("active"));
+				this.UpdateFilters();
+			});
+		}
+
 		{
 			const landmines = this.Element.querySelector(".list.landmines");
 			const ls = Consolidator.landmines;

@@ -5,6 +5,7 @@
 			"romanized":"Kimi to Tsuzuru Utakata",
 			"en":"The Summer You Were There"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"short":"||Depressed Writer x Terminal Patient||",
 		"description":"",
@@ -34,6 +35,7 @@
 			"romanized":"Makemasen kara to Iiharu Kao no Ii Onnanoko wo, Zenryoku de Kuppuku Saseru Yuri no Ohanashi",
 			"en":"A Yuri Story About Breaking a Pretty Girl Who Keeps Insisting \"I Won't Lose\" Into Submission"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"pairings": {
 			"lesbian" : 10
@@ -61,6 +63,7 @@
 			"romanized":"Ame to Muchi",
 			"en":"Candy and Whip"
 		},
+		"added": "31-12-2025",
 		"author":"Aisoeru",
 		"pairings": {
 			"lesbian" : 10
@@ -82,7 +85,7 @@
 			"toxic": 9.0
 		},
 		"landmines": ["eating disorder"],
-		"tags":["romance", "sex", "violence","drama","psychological","slice of life"]
+		"tags":["romance", "sex", "sex work", "violence", "drama", "psychological"]
 	},
 	{
 		"names":{
@@ -90,6 +93,7 @@
 			"romanized":"Desutoro 246",
 			"en":"Destro 246"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Takahashi Keitarou",
 		"pairings": {
@@ -110,7 +114,7 @@
 			"story": 7.5
 		},
 		"landmines": [],
-		"tags":["romance", "sex", "violence", "drama"]
+		"tags":["romance", "sex", "crime", "violence", "drama"]
 	},
 	{
 		"names":{
@@ -118,6 +122,7 @@
 			"romanized":"Iberis no Hanayome",
 			"en":"Brides of Iberis"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Akiyama Haru",
 		"pairings": {
@@ -146,6 +151,7 @@
 			"romanized":"Robot Izonkei Joshi no Meiwaku na Nichijou",
 			"en":"The Nuisance Daily Life of Robot-dependent Girl"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Kawada Akio",
 		"pairings": {
@@ -173,6 +179,7 @@
 			"cn":"荆棘之心",
 			"en":"Heart of Thorns"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"狐泥",
 		"pairings": {
@@ -201,6 +208,7 @@
 			"romanized":"Yurison",
 			"en":"Yurizon"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Kurata Hideyuki, Moriyama Daisuke",
 		"pairings": {
@@ -228,6 +236,7 @@
 			"romanized":"Datenshi Sopurano-chan no Fukushuu",
 			"en":"Revenge of The Fallen Angel Soprano-chan"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Fujimoto Setsuna",
 		"pairings": {
@@ -256,6 +265,7 @@
 			"romanized":"Home Center-goto Yobidasareta Watashi no Daimeikyuu Renovation!",
 			"en":"Summoned Along with a Home Center, I'll Bring About a Dungeon Renovation"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Hoshizaki Kon, Batacchi",
 		"pairings": {
@@ -275,13 +285,14 @@
 			"story": 7.5
 		},
 		"landmines": [],
-		"tags":["romance", "comedy", "fantasy", "slice of life"]
+		"tags":["romance", "isekai", "comedy", "fantasy", "slice of life"]
 	},
 	{
 		"names":{
 			"kr":"Heunhago Neollin",
 			"en":"Common and Widespread"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"포배",
 		"pairings": {
@@ -302,20 +313,21 @@
 			"story": 8.0
 		},
 		"landmines": [],
-		"tags":["romance", "sex", "comedy", "slice of life"]
+		"tags":["romance", "office", "sex", "comedy", "slice of life"]
 	},
 	{
 		"names":{
 			"jp":"シーイズビューティフル",
 			"en":"she is beautiful"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Jun Esaka, Totsuno Takahide",
 		"pairings": {
 			"lesbian" : 10.0
 		},
 		"short":"",
-		"description":"I'm not providing a summary. Go in blind. And lose your mind.",
+		"description":"i'm not providing a summary. go in blind. and lose your mind. (also, it is fully published, but not fully translated yet, afaik)",
 		"length": "medium",
 		"status": "completed",
 		"targets": ["lotte", "ash", "blind reads", "hidden gems"],
@@ -336,6 +348,7 @@
 			"cn":"黑雪·白月·永生花",
 			"en":"Black Snow. White Moon. Eternal Blossom."
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Zer jiàng, Li Zhiheng",
 		"pairings": {
@@ -367,6 +380,7 @@
 			"romanized":"Endroll no Ato ni wa Saikou no Tabi o",
 			"en":"Have a Great Trip After the Credits Roll"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Rikitake",
 		"pairings": {
@@ -393,6 +407,7 @@
 			"kr":"안개 바다 위의 샤베트",
 			"en":"Sherbet Above The Sea of Fog"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"BonesBloodFlesh (뼈피살), Dongom",
 		"pairings": {
@@ -411,7 +426,7 @@
 			"story": 9.0
 		},
 		"landmines": [],
-		"tags":["romance", "fantasy", "mystery", "supernatural","comedy"]
+		"tags":["romance", "pirates", "fantasy", "mystery", "supernatural", "comedy"]
 	}
 	,{
 		"names":{
@@ -419,6 +434,7 @@
 			"romanized":"Kono Ai wo Owarasete kurenai ka",
 			"en":"Will You End This Love?"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Tsutsui Itsuki",
 		"pairings": {
@@ -438,13 +454,14 @@
 			"story": 9.0,
 			"toxic": 9.0
 		},
-		"landmines": [],
-		"tags":["romance", "drama", "comedy"]
+		"landmines": ["suicide"],
+		"tags":["romance", "drama","supernatural",  "comedy"]
 	},{
 		"names":{
 			"cn":"关于被班上绿茶威胁那件事",
 			"en":"That Time I Was Blackmailed By the Class's Green Tea Bitch"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Xian Jun",
 		"pairings": {
@@ -466,11 +483,12 @@
 			"toxic": 5.0
 		},
 		"landmines": [],
-		"tags":["romance", "sex", "slice of life", "comedy", "soft bdsm"]
+		"tags":["romance", "school life", "sex", "slice of life", "comedy", "soft bdsm"]
 	},{
 		"names":{
 			"en":"6th Degree"
 		},
+		"added": "31-12-2025",
 		"type":"webtoon",
 		"author":"vultie!",
 		"pairings": {
@@ -496,6 +514,7 @@
 		"names":{
 			"en":"I Love Amy"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"unni",
 		"pairings": {
@@ -523,6 +542,7 @@
 			"romanized":"Con Cafe Jou wa Koi wo Kiru",
 			"en":"The Concept Cafe Girl Wears Love"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Uhana Ririka",
 		"pairings": {
@@ -543,13 +563,14 @@
 			"story": 7.0
 		},
 		"landmines": ["rushed ending"],
-		"tags":["romance", "slice of life", "fashion", "concept cafe","trans rep"]
+		"tags":["romance", "slice of life", "fashion", "concept cafe", "trans rep"]
 	},{
 		"names":{
 			"kr":"그녀의 심",
 			"romanized":"Geunyeoui Simcheong",
 			"en":"Her Tale of Shim Chong"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Seri, Biwan",
 		"pairings": {
@@ -574,6 +595,7 @@
 			"cn":"大佬你头又掉了",
 			"en":"Your Head's Fallen Off Again"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Lily Club (橘姬社)",
 		"pairings": {
@@ -599,6 +621,7 @@
 			"cn":"小姑孃",
 			"en":"My Dear Lass"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Tracy Hu",
 		"pairings": {
@@ -624,6 +647,7 @@
 			"jp":"小姑孃",
 			"en":"My Master Has No Tail"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"TNSK",
 		"pairings": {
@@ -649,6 +673,7 @@
 			"romanized":"Rock wa Lady no Tashinami deshite",
 			"en":"Rock Is a Lady’s Modesty"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Fukuda Hiroshi",
 		"pairings": {
@@ -674,6 +699,7 @@
 		"names":{
 			"en":"Falling"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Cha Suyeol, Eunsu Gye, Dog",
 		"pairings": {
@@ -691,16 +717,17 @@
 			"romance": 8.0,
 			"freaky": 8.0,
 			"art": 8.0,
-			"toxic": 9.0
+			"toxic": 9.2
 		},
 		"landmines": [],
-		"tags":["romance","sex",  "psychological", "action", "crime"]
+		"tags":["romance", "sex", "psychological", "action", "crime"]
 	},{
 		"names":{
 			"jp": "僕らのアイは気持ち悪い",
 			"romanized":"Bokura no Ai wa Kimochi Warui",
 			"en":"Our \"Love\" is Disgusting"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Usui Shio",
 		"pairings": {
@@ -722,13 +749,14 @@
 			"toxic": 8.5
 		},
 		"landmines": [],
-		"tags":["romance", "drama", "sexual", "fetish"]
+		"tags":["romance", "love triangle", "love square","drama", "sexual", "fetish"]
 	},{
 		"names":{
 			"jp": "恋より青く",
 			"romanized":"Koi yori Aoku",
 			"en":"A Love Yet To Bloom"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Fukaumi Kon",
 		"pairings": {
@@ -752,6 +780,7 @@
 		"names":{
 			"en":"Murder Girlband"
 		},
+		"added": "31-12-2025",
 		"author":"Grace NN, Bethany Higa",
 		"pairings": {
 			"lesbian" : 10.0,
@@ -771,13 +800,14 @@
 			"art": 8.5
 		},
 		"landmines": [],
-		"tags":["romance", "drama", "campy", "trans rep"]
+		"tags":["romance", "music", "drama", "campy", "trans rep"]
 	},{
 		"names":{
 			"jp":"声がだせない少女の話",
 			"romanized":"Koe ga Dasenai Shoujo no Hanashi",
 			"en":"The Mute Girl and Her New Friend"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Yamura Ichi",
 		"pairings": {
@@ -797,7 +827,7 @@
 			"art": 7.0
 		},
 		"landmines": [],
-		"tags":["romance", "comedy", "disablity"]
+		"tags":["romance", "school life", "supernatural", "comedy", "disablity"]
 	}
 	,{
 		"names":{
@@ -805,6 +835,7 @@
 			"romanized":"Kimi ga Hoeru Tame no Uta wo,",
 			"en":"Howling Song for Husky Girl"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Kashikaze",
 		"pairings": {
@@ -831,6 +862,7 @@
 			"romanized":"Yoarashi Ni Warau",
 			"en":"Laugh at the Night Storm"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Tsutsui Itsuki",
 		"pairings": {
@@ -859,6 +891,7 @@
 			"romanized":"Unnie tte Yonde mo Ii desu ka?",
 			"en":"Can I Call You Unnie?"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Hanakage Alt",
 		"pairings": {
@@ -878,7 +911,7 @@
 			"art": 7.0
 		},
 		"landmines": [], 
-		"tags": ["romance", "music", "comedy", "slice of life"]
+		"tags": ["romance", "idol", "music", "comedy", "slice of life"]
 	}
 	,{
 		"names":{
@@ -886,6 +919,7 @@
 			"romanized":"Bakajo 26-ji",
 			"en":"Stupid Woman 26:00"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Touno Meza, Ayano Urasuke",
 		"pairings": {
@@ -914,6 +948,7 @@
 			"romanized":"Yuri no Hajimari wa Dorei Kara",
 			"en":"My Yuri Started with Slavery"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Desuyama Hanako, Mimoto",
 		"pairings": {
@@ -933,7 +968,7 @@
 			"freaky": 6.5
 		},
 		"landmines": [], 
-		"tags": ["romance", "comedy", "gyaru", "school life", "drama"]
+		"tags": ["romance","love triangle","love square", "comedy", "gyaru", "school life", "drama"]
 	}
 	
 	,{
@@ -941,6 +976,7 @@
 			"kr":"박 과장 죽이기 ",
 			"en":"Killing Mr. Park"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Shin won-seob, Boiler kim",
 		"pairings": {
@@ -967,6 +1003,7 @@
 			"romanized":"Daisuki na Shinyuu ga Vtuber no Jibun ni Gachikoi shimashita Hanashi",
 			"en":"My Best Friend Who I Love Fell Completely in Love With My Vtuber Self"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Hikawa Shou",
 		"pairings": {
@@ -994,6 +1031,7 @@
 			"romanized":"Wǒ Shì Māo",
 			"en":"I'm A Cat"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Causticsoda",
 		"pairings": {
@@ -1021,6 +1059,7 @@
 			"romanized":"Wǒ Shì Māo",
 			"en":"My Mom's a Superstar"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Shi Yi Er (时一二)",
 		"pairings": {
@@ -1046,6 +1085,7 @@
 		"names":{
 			"en":"Dark Mermaid"
 		},
+		"added": "31-12-2025",
 		"type":"webtoon",
 		"author":"DDOGAK",
 		"pairings": {
@@ -1071,6 +1111,7 @@
 			"romanized": "Seiyuu Radio no Ura Omote",
 			"en":"The Many Sides of Voice Actor Radio"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Makimoto Umemi, Nigatsu Kou",
 		"pairings": {
@@ -1096,6 +1137,7 @@
 			"kr":"행복은 빗자루를 타고",
 			"en":"Happiness Rides a Broomstick"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Yeongol",
 		"pairings": {
@@ -1122,6 +1164,7 @@
 			"romanized":"Nei You E Quan Qing Xiao Xin",
 			"en":"Warning! Beware of the Dog"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"Lily Club (橘姬社), 笑亍亍, Tianwen Juechuan (天闻角川)",
 		"pairings": {
@@ -1152,6 +1195,7 @@
 			"romanized":"Yòu Jiàn Xīng Huǒ",
 			"en":"Seeing The Spark Again"
 		},
+		"added": "31-12-2025",
 		"type":"manhua",
 		"author":"辣猫漫画",
 		"pairings": {
@@ -1179,6 +1223,7 @@
 			"romanized":"\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
 			"en":"ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"kiki (kiki_lily17), Minakata Sunao",
 		"pairings": {
@@ -1205,6 +1250,7 @@
 			"romanized":"Futsuu to Bakemono",
 			"en":"Common-Sense Monster"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Warugi Wanai, Shinotsuki Shinobu",
 		"pairings": {
@@ -1217,7 +1263,7 @@
 		"targets": ["lotte", "up and coming"],
 		"image":"./assets/2d936b13-28d3-427a-b257-c4f7349863d3.jpg",
 		"recommendations":{
-			"uniqueness": 9.6,
+			"uniqueness": 9.3,
 			"intensity": 9.5,
 			"comedy": 8.0,
 			"romance": 8.0
@@ -1231,6 +1277,7 @@
 			"kr":"나는 네가 -라고 생각해",
 			"en":"I Think You Are -"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Ongbang",
 		"pairings": {
@@ -1254,6 +1301,7 @@
 		"names":{
 			"en":"Girlfriend Manual"
 		},
+		"added": "31-12-2025",
 		"type":"webtoon",
 		"author":"saefira (Merlin)",
 		"pairings": {
@@ -1277,6 +1325,7 @@
 		"names":{
 			"en":"Papercut Dreams"
 		},
+		"added": "31-12-2025",
 		"type":"webtoon",
 		"author":"moonbun00",
 		"pairings": {
@@ -1302,6 +1351,7 @@
 			"en":"Meeting My Ex-Girlfriend",
 			"kr": "분리수거 하다가 전여친 마주치는 만화"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Yeongol",
 		"pairings": {
@@ -1329,6 +1379,7 @@
 			"romanized":"Asagiiro no Saudade",
 			"jp":"あさぎ色のサウダージ"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Sakutaro",
 		"pairings": {
@@ -1357,6 +1408,7 @@
 			"romanized":"Hikizan Tautology",
 			"jp":"ひきざんトートロジー"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Masatsuka Chii",
 		"pairings": {
@@ -1383,6 +1435,7 @@
 			"romanized":"Koe ga Dasenai Shōjo wa \"Kanojo ga Yasashisugiru\" to Omotte Iru",
 			"jp":"声がだせない少女は「彼女が優しすぎる」と思っている"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Ichi Yamura",
 		"pairings": {
@@ -1410,6 +1463,7 @@
 			"romanized":"Zenbu Kowashite Jigoku de Aishite",
 			"jp":"声がだせない少女は「彼女が優しすぎる」と思っている"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Kuwabara Tamotsu",
 		"pairings": {
@@ -1429,7 +1483,7 @@
 			"toxic": 8.0
 		},
 		"landmines": [], 
-		"tags": ["romance", "toxic", "sexual", "school life", "drama", "psychological"]
+		"tags": ["romance", "bdsm", "sexual", "school life", "drama", "psychological"]
 	}
 	
 	,{
@@ -1438,6 +1492,7 @@
 			"romanized":"Dame Inu Kanojo",
 			"jp":"ダメ犬彼女"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Kuwabara Tamotsu",
 		"pairings": {
@@ -1457,7 +1512,7 @@
 			"toxic": 8.0
 		},
 		"landmines": [], 
-		"tags": ["romance", "dog", "toxic", "sexual", "school life", "drama"]
+		"tags": ["romance","bdsm", "dog", "toxic", "sexual", "school life", "drama"]
 	}
 	,{
 		"names":{
@@ -1465,6 +1520,7 @@
 			"romanized":"Shiro to Kuro",
 			"jp":"白と黒～Black & White～"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Sal Jiang",
 		"pairings": {
@@ -1490,6 +1546,7 @@
 			"en": "5 Seconds Before a Witch Falls in Love",
 			"jp":"魔女が恋する５秒前"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Sumiya Zeniko",
 		"pairings": {
@@ -1515,6 +1572,7 @@
 			"romanized":"Nega Eopseosseumyeon Jokesseo",
 			"kr":"네가 없었으면 좋겠어"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Carbonara",
 		"pairings": {
@@ -1540,6 +1598,7 @@
 			"romanized":"Kimi to Shiranai Natsu ni Naru",
 			"jp":"君としらない夏になる"
 		},
+		"added": "31-12-2025",
 		"type":"manga",
 		"author":"Keyyang",
 		"pairings": {
@@ -1558,7 +1617,7 @@
 			"tragedy": 8.5
 		},
 		"landmines": [], 
-		"tags": ["romance", "drama", "\"slice of life\""]
+		"tags": ["romance", "drama", "road trip","\"slice of life\""]
 	}
 	,{
 		"names":{
@@ -1566,6 +1625,7 @@
 			"romanized":"Aepteo Keoteunkol",
 			"kr":"애프터 커튼콜"
 		},
+		"added": "31-12-2025",
 		"type":"manhwa",
 		"author":"Assam (아쌈), JINA (지나)",
 		"pairings": {
@@ -1584,6 +1644,141 @@
 		},
 		"landmines": ["rushed ending"], 
 		"tags": ["romance", "drama", "slice of life"]
+	}
+	,{
+		"names":{
+			"en": "The Skirt Sings at the Landing",
+			"romanized":"Odoriba ni Skirt ga naru",
+			"jp":"踊り場にスカートが鳴る"
+		},
+		"added": "08-01-2026",
+		"type":"manga",
+		"author":"Utatane Yuu",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"leading dancer x following dancer",
+		"description":"",
+		"length": "medium",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/c9116066-94bc-4077-a50e-df4dcc2c45a3.jpg",
+		"recommendations":{
+			"uniqueness": 9.0,
+			"intensity": 9.0,
+			"romance": 9.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "love triangle", "drama", "slice of life"]
+	}
+	
+	,{
+		"names":{
+			"en": "I Want A Girlfriend",
+			"kr":"여사친이 가지고 싶어!"
+		},
+		"added": "08-01-2026",
+		"type":"manhwa",
+		"author":"Kim Jong Geon (김종건)",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"pathetic disaster lesbian x three college girls",
+		"description":"mostly erotica, but i really liked how much of a nightmare everyone was together.",
+		"length": "short",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/3bd484e3-a95a-484a-8b77-8db1f95f0e55.jpg",
+		"recommendations":{
+			"uniqueness": 8.0,
+			"intensity": 9.0,
+			"horny": 10.0,
+			"romance": 6.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "sex", "love triangle", "love square",  "slice of life"]
+	}
+	
+	,{
+		"names":{
+			"en": "A Lying Bride's Case for Same-Sex Marriage",
+			"romanized":"Usotsuki Hanayome to Dousei Kekkon-ron",
+			"jp": "嘘つき花嫁と同性結婚論"
+		},
+		"added": "08-01-2026",
+		"type":"manga",
+		"author":"Kodama Naoko",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"lesbian x married girl",
+		"description":"",
+		"length": "short",
+		"status": "completed",
+		"targets": [],
+		"image":"./assets/8a23a95d-8f73-44a7-8ae3-47dbb19bde53.jpg",
+		"recommendations":{
+			"uniqueness": 8.0,
+			"intensity": 9.0,
+			"romance": 6.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "drama", "office", "slice of life"]
+	}
+	,{
+		"names":{
+			"en": "Love Curse: Find Your Soulmate"
+		},
+		"added": "08-01-2026",
+		"type":"visual novel",
+		"author":"Xso",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"cursed girl x 4 prospective romance partners",
+		"description":"",
+		"length": "medium",
+		"status": "completed",
+		"targets": ["lotte", "ash"],
+		"image":"./assets/love-curse-find-your-soulmate-is-out-v0-2r3dbul17awe1.webp",
+		"recommendations":{
+			"uniqueness": 9.3,
+			"intensity": 9.5,
+			"romance": 9.0,
+			"toxic": 9.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "drama", "college", "office", "slice of life"]
+	}
+	
+	,{
+		"names":{
+			"en": "Story About Buying My Classmate Once a Week",
+			"romanized": "Shuu ni Ichido Classmate wo Kau Hanashi",
+			"jp":"週に一度クラスメイトを買う話 "
+		},
+		"added": "08-01-2026",
+		"type":"light novel",
+		"author":"Haneda Usa",
+		"pairings": {
+			"lesbian" : 10.0
+		},
+		"short":"moody idiot x unstoppable idiot",
+		"description":"THESE TWO ARE A FUCKING NIGHTMARE.",
+		"length": "long",
+		"status": "in progress",
+		"targets": ["lotte", "ash"],
+		"image":"./assets/71E+-UCz6nL.jpg",
+		"recommendations":{
+			"uniqueness": 9.0,
+			"intensity": 9.5,
+			"romance": 7.0,
+			"horny": 9.5,
+			"freaky": 9.5,
+			"toxic": 7.0
+		},
+		"landmines": [], 
+		"tags": ["romance", "drama", "school life", "college", "slice of life"]
 	}
 	
 ]

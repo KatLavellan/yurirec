@@ -163,22 +163,67 @@
 			}
 		}
 	}
+	&.hideLandmines{
+		article{
+			>.data .landmines{
+				display:none;
+			}
+		}
+	}
+	&.hideTags{
+		article{
+			>.data .tags{
+				display:none;
+			}
+		}
+	}
 	article{
 		display:inline-flex;
 		margin:0.5em;
 		padding:1em;
 		padding-bottom:0em;
+		position:relative;
 		background-color:#bb5f5fd5;
 		border-radius:0.5em;
-		
-			height:calc(370px + 20px);
-		img{
+		//max-width:calc(100vw - 3em);
+		height:calc(370px + 20px);
+		.new{
+			display:none;
+		}
+		&.new{
+			.new{
+				position:absolute;
+				background-color:red;
+				
+				display:block;
+				bottom:1em;
+				right:-2em;
+				width:8em;
+				text-transform:none;
+				font-size:1.5em;
+				font-weight:bold;
+				padding-top:0.2em;
+				padding-bottom:0.2em;
+				text-align:center;
+				transform:rotate(-45deg);
+			}
+		}
+		.img{
 			display:block;
 			width:260px;
 			height:370px;
-			object-fit: cover;
+			position:relative;
+			overflow:hidden;
+			
+			img{
+				width:100%;
+				height:100%;
+				object-fit: cover;
+				object-position:center center;
+			}
 		}
-		>div{
+
+		>.data{
 			padding:0.5em;
 			padding-left:1.5em;
 			max-width:13em;
@@ -318,9 +363,6 @@
 	@media (max-width: 1000px) {
 		article:nth-child(2n){
 			flex-direction:row-reverse;
-			padding-left:unset;
-			padding-left:0.5em;
-			padding-right:1.5em;
 		}
 		aside{
 			display:block;
@@ -337,9 +379,16 @@
 			}
 		}
 		article{
-			width:100%;
+			width:calc(100vw - 1em);
 			height:calc(370px * 1.5 + 20px);
 			font-size:1.5em;
+			//margin:0px;
+			border-radius:0;
+			//padding:0px;
+			padding-left:0.5em;
+			padding-right:0.5em;
+			margin-left:0px;
+			margin-right:0px;
 			.pairings, .tags{
 				button{
 					font-size:0.8em;
@@ -348,13 +397,19 @@
 			>div{
 				width:100%;
 				max-width:unset;
+				padding-left:0.5em;
 				height:calc(370px * 1.5 - 0.8em);
 			}
-			img{
-				display:block;
+			.img{
 				width:calc(260px * 1.5);
+				max-width:calc(40vw);
 				height:calc(370px * 1.5);
-				object-fit: cover;
+				margin-left:0.5em;
+				margin-right:0.5em;
+				display:block;
+				img{
+					object-fit: cover;
+				}
 			}
 		}
 	}

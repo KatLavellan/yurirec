@@ -13,6 +13,8 @@ export default class Consolidator{
 	static pairings : string[] = [];
 	static type : string[] = [];
 
+	static latestDate : string = "31-12-2025";
+
 	static Initialise(){
 		let tags = new Set<string>();
 		let ratings = new Set<string>();
@@ -23,6 +25,7 @@ export default class Consolidator{
 		let length = new Set<string>();
 		let pairings = new Set<string>();
 		let type = new Set<string>();
+
 		for (let item of items){
 			item.tags.forEach((a)=>tags.add(a));
 			item.landmines?.forEach((a)=>landmines.add(a));
@@ -39,7 +42,9 @@ export default class Consolidator{
 			for (let rating in item.pairings){
 				pairings.add(rating);
 			}
+			this.latestDate = item.added;
 		}
+		
 		this.tags = Array.from(tags);
 		this.ratings = Array.from(ratings);
 		this.landmines = Array.from(landmines);
